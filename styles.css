@@ -482,8 +482,8 @@ body {
     padding: 15px 5px;
     text-align: center;
     font-weight: bold;
-    color: #550022;
-    border: 3px solid #550022;
+    color: white;
+    border: 3px solid white;
     background: black;
 }
 
@@ -494,10 +494,10 @@ body {
     min-height: 50px;
     display: flex;
     align-items: center;
-    color: #550022;
+    color: white;
     font-weight: bold;
     justify-content: center;
-    border: 3px solid #550022;
+    border: 3px solid white;
 }
 
 /* Responsivo para tablets */
